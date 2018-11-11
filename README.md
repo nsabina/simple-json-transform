@@ -43,5 +43,7 @@ Filtered Json:
 ```
 Output map:
 `
-{newName=test, newOtherProperty3=otherThree, newProperty2=Two}
+newName=test 
+newOtherProperty3=otherThree 
+newProperty2=Two
 `
