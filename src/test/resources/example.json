@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "color":" green",
+  "properties": {
+    "property1": "One",
+    "property2": "Two",
+    "property3": "Three"
+  },
+  "otherProperties": {
+    "otherProperty1": "otherOne",
+    "otherProperty2": "otherTwo",
+    "otherProperty3": "otherThree"
+  }
+}
