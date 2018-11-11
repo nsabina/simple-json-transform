@@ -22,11 +22,11 @@ Json file to process:
 ```
 Mapping:
 
-`
+```
 name=newName
 properties.property2=newProperty2
 otherProperties.otherProperty3=newOtherProperty3
-`
+```
 
 Filtered Json:
 
@@ -42,8 +42,8 @@ Filtered Json:
 }
 ```
 Output map:
-`
+```
 newName=test 
 newOtherProperty3=otherThree 
 newProperty2=Two
-`
+```
