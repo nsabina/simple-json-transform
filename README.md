@@ -1,6 +1,6 @@
 # simple-json-transform
 
-Simple JSON utility to filter and flatten nested Json file into flat object with proeprties map
+Simple JSON utility to filter and flatten nested Json file into properties map of a flat object
 
 Json file to process:
 
